@@ -1,0 +1,15 @@
+Hello
+To start using this project you may need to log into the db, use:
+
+sudo mysql -u root
+
+screen should look like: MariaDB[]>
+
+to use a database, eg:
+
+> use "testdb";
+
+> source file.sql;
+
+> show columns from testtbl;
+
